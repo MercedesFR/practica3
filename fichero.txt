@@ -1,4 +1,3 @@
 primera linea
 segunda lines
-???
 tercera linea
